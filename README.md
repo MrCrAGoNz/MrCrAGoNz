@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫 Discord username **MrCRAGONz#5151**
+    . 📫 Discord username **MrCRAGONz#5151**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
