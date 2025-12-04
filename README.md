@@ -6,7 +6,7 @@
 - 👀 I’m interested in **Programing.**
 
 - 🌱 I’m currently **learning.**
-- 🌱 I’m currently **learning.**
+
 <h3 align="left">Connect with me:</h3>
 - 📫 Discord username **MrCRAGONz#5151**
 
