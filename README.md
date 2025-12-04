@@ -18,3 +18,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrcragonz1h"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrcragonz1h" /></a></p><br><br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/874491453273952257?showDisplayName=true)](https://discord.com/users/874491453273952257)
