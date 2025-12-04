@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **Programing.**
 
-- 🌱 I’m currently **learning**.
+- 🌱 I’m currently **learning.**
 
 - 📫 Discord username **MrCRAGONz#5151**
 
